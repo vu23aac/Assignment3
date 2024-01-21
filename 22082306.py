@@ -238,8 +238,6 @@ def main():
 
     # Calling plot_cluster_data function with data and Country
     forecast(df, "Germany")
-
-    # Calling plot_cluster_data function with data and Country
     forecast(df, "United States")
 
 

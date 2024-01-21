@@ -15,7 +15,6 @@ import scipy.optimize as opt
 import cluster_tools as ct
 import errors as err
 
-
 def read_data(filename):
     '''
     Function to read the dataframe "filename" and return the two dataframes
